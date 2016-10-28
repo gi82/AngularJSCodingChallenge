@@ -255,7 +255,7 @@
                 $scope.reverse = false;
                 $scope.filteredItems = [];
                 $scope.groupedItems = [];
-                $scope.itemsPerPage = 50;
+                $scope.itemsPerPage = 100;
                 $scope.appLocale = "EN";
                 $scope.decimalDelimiter = ".";
                 $scope.thousandsDelimiter = ",";
